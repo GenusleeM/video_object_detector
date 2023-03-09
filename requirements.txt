@@ -2,7 +2,6 @@
 pip==23.0.1
 streamlit==1.19.0
 opencv-python 
-opencv-python-headless 
 math  
 pandas
 tensorflow
